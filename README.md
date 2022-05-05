@@ -1,2 +1,2 @@
 # mit-cloud-devops.github.io
-Repostiory for MIT course.
+Repository for MIT Clouds and DevOps course.
